@@ -8,6 +8,7 @@
   "plugins": ["import-helpers", "@typescript-eslint", "prettier"],
   "rules": {
     "@next/next/no-img-element": "off",
+    "@typescript-eslint/no-explicit-any": "off",
     "import/no-anonymous-default-export": [
       "error",
       {
