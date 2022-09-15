@@ -46,7 +46,7 @@ export const ImageContainer = styled("div", {
   marginTop: "4rem",
 
   display: "flex",
-  alignContent: "center",
+  alignItems: "center",
   justifyContent: "center",
 
   img: {
